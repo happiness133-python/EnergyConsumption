@@ -74,3 +74,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy coding! 🚀
+
+![ALT TEXT](https://github.com/happiness133-python/EnergyConsumption/blob/main/XGBoost.png)
