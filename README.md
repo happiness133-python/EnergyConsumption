@@ -39,6 +39,7 @@ To run the model and generate a 15-day forecast, use the following command:
 
 ```bash
 python forecast.py
+```
 
 ## Weather Data APIs
 To obtain forecasted weather data, you can use the following APIs:
