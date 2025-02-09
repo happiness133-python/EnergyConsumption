@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the repository for our natural gas forecast model! This is the first working version of the model, designed to predict the 15-day natural gas forecast based on weather data from the previous year.
+Welcome to the repository for my natural gas forecast model! This is the first working version of the model, designed to predict the 15-day natural gas forecast based on weather data from the previous year.
 
 ## Model Description
 
