@@ -39,3 +39,22 @@ To run the model and generate a 15-day forecast, use the following command:
 
 ```bash
 python forecast.py
+
+## Weather Data APIs
+To obtain forecasted weather data, you can use the following APIs:
+
+WeatherAPI: Provides real-time, forecasted, and historical weather data in JSON and XML formats. It offers a wide range of weather information, including temperature, precipitation, wind speed, and more.
+
+Open-Meteo: An open-source weather API that offers free access to accurate weather forecasts for any location. It provides high-resolution weather data and does not require an API key for non-commercial use.
+
+Weatherstack: Offers detailed and reliable global weather data, including current conditions, forecasts, and historical data. It is suitable for various applications, from travel planning to agricultural management.
+
+### Future Work
+Model Improvements: Continually refining the model for better accuracy.
+
+Additional Features: Incorporating more features like real-time weather data and advanced analytics.
+
+Expanded Forecasting: Extending the forecast period beyond 15 days.
+
+### Contributing
+Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
