@@ -1,3 +1,7 @@
+# Important Information
+
+Due to security reasons, the data does not contain the original values but has been altered to showcase the model's abilities.
+
 # Natural Gas Forecast Model
 
 ## Overview
