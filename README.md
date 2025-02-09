@@ -20,7 +20,7 @@ To get started with the model, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/natural-gas-forecast.git
+    git clone https://github.com/happiness133-python/EnergyConsumption.git
     ```
 
 2. Navigate to the project directory:
