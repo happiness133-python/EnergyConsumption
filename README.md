@@ -17,6 +17,7 @@ My model leverages historical weather data to make accurate predictions about na
 - **15-Day Forecast**: Provides a natural gas consumption forecast for the next 15 days.
 - **Weather Data Analysis**: Utilizes weather data from the previous year to make predictions.
 - **Data-Driven Insights**: Offers valuable insights to help optimize natural gas usage and improve energy efficiency.
+- **Models**: The model uses both Linear Regression and XGBoost models for comparison.
 
 ## Installation
 
